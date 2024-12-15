@@ -16,8 +16,7 @@ Mon portfolio est accessible à l'adresse suivante : [chihabalaoui.com](https://
 ## Technologies utilisées
 
 - **Frontend** : HTML, CSS, JavaScript
-- **Backend** : [Préciser le framework ou langage utilisé, si applicable]
-- **Autres** : [Ajouter d'autres technologies ou outils pertinents]
+- **Autres** : Webflow, Visual Studio Code
 
 ## Installation et utilisation
 
