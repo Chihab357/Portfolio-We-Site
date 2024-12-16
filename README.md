@@ -2,6 +2,9 @@
 
 Bienvenue sur le dépôt GitHub de mon portfolio personnel. Ce projet présente mon parcours, mes compétences et mes réalisations en cybersécurité, développement web/mobile et design graphique.
 
+<img src="https://media1.tenor.com/m/7LAB1WbMURAAAAAd/website.gif" width="300" alt="Small Hacker GIF">
+
+
 ## Aperçu
 
 Mon portfolio est accessible à l'adresse suivante : [chihabalaoui.com](https://chihabalaoui.com)
