@@ -17,9 +17,3 @@ Mon portfolio est accessible à l'adresse suivante : [chihabalaoui.com](https://
 
 - **Frontend** : HTML, CSS, JavaScript
 - **Autres** : Webflow, Visual Studio Code
-
-## Installation et utilisation
-
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/votre_nom_utilisateur/nom_du_depot.git
